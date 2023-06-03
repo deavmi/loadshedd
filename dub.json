@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Tristan B. Velloza Kildaire"
+	],
+	"copyright": "Copyright © 2023, Tristan B. Velloza Kildaire",
+	"dependencies": {
+		"dlog": "~>0.0.6",
+		"eskomcalendar4d": "~>0.1.1",
+		"jstruct": "~>0.1.3"
+	},
+	"description": "The loadshedding daemon for Saffers!",
+	"license": "GPL v3",
+	"name": "loadshedd"
+}

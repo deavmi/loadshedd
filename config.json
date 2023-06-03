@@ -1,0 +1,6 @@
+{
+    "server": "https://eskom-calendar-api.shuttleapp.rs/v0.0.1/",
+    "area": "western-cape-worscester",
+    "warnBefore": 1,
+    "refreshInterval" : 1
+}

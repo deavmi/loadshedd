@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/loadshedd
+loadshedd.so
+loadshedd.dylib
+loadshedd.dll
+loadshedd.a
+loadshedd.lib
+loadshedd-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+dub.selections.json
